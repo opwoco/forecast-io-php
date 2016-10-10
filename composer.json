@@ -1,7 +1,7 @@
 {
-    "name": "tave/forecast-io-php",
-    "homepage": "https://www.tave.com",
-    "description": "PHP wrapper for Forecast IO API",
+    "name": "opwoco/forecast-io-php",
+    "homepage": "https://www.opwoco.com",
+    "description": "PHP wrapper for Forecast IO API (Forked from tave/forecast-io-php)",
     "keywords": ["forecast","forecast-io","tave"],
     "type": "library",
     "license": "BSD",

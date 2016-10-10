@@ -8,7 +8,7 @@ Forecast IO APIv2 Wrapper implementation: http://forecast.io/
 
 {
   "require" : {
-    "tave/forecast-io-php": "~1.3"
+    "opwoco/forecast-io-php": "~1.3"
   }
 }
 
