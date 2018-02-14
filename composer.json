@@ -4,7 +4,7 @@
     "description": "PHP wrapper for Forecast IO API (Forked from tave/forecast-io-php)",
     "keywords": ["forecast","forecast-io","tave"],
     "type": "library",
-    "license": "BSD",
+    "license": "0BSD",
     "authors": [
         {
             "name": "Jason Pirkey",
